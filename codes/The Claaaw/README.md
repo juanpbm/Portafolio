@@ -17,4 +17,4 @@ The arm program controlled the robotic arm. It was controlled by the same TV rem
 360 rotation motion, first up and down, second up and down and open and close the claw. and again the safety part of the code using a temperature 
 sensor and motion sensor was implemented.
 
-
+Note: The IMG_2269.MP4 file is a video showing how the robot worked.
