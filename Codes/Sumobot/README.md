@@ -1,4 +1,4 @@
-# sumobot code 
+# Sumobot code 
 
 This code was made in Arduino. I worked in a group of 4 and I was the leader of the code. 
 
