@@ -1,4 +1,4 @@
-## Dynamically growing array
+# Dynamically growing array
 
 This code was made in mobaxterm using C++. For this code, I worked with a partner. 
 
