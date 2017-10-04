@@ -1,4 +1,4 @@
-## Linked List
+# Linked List
 
 
 This code was made in mobaXterm (linux) using C++. For this code, I worked with a partner.
