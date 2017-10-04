@@ -1,6 +1,6 @@
 # Dynamically growing array
 
-This code was made in mobaxterm using C++. For this code, I worked with a partner. 
+This code was made in mobaXterm using C++. For this code, I worked with a partner. 
 
 This code was made to use allow the user create an array of an indefinite number of elements and allow to append an element at the end, insert an element,
 remove an element or print the array. First, the user gets the main menu where an option can be selected. 
