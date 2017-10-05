@@ -1,11 +1,19 @@
 # Dynamically growing array
 
-This code was made in mobaXterm using C++. For this code, I worked with a partner. 
+This code was made in mobaXterm using C++ in collaboration with a partner. 
 
-This code was made to use allow the user create an array of an indefinite number of elements and allow to append an element at the end, insert an element,
-remove an element or print the array. First, the user gets the main menu where an option can be selected. 
-If the option selected is append an element at the end, the program first will check if there is enough space in the array to append the new element if there isn't enough the array will be doubled in size. If there is space, only the element will be added at the end.
-If the option selected is inserted an element, the program will ask the user the index where he wants to place the new element and the new element, then place it in the desired index and move all the other values one space to the right. Again if there is not enough space the size of the array will be doubled.
-If the option selected is removed an element, the program will ask the user for the index of the element he wants to remove, delete that element and move all the values one space to the right. If the number of elements in the array is less than 30% of the total capacity the array will be shrunk to the half of its previous capacity.
-If the option selected is print, the program will print all the elements in the array.
-Finally, this program will run until the option Exit is selected.
+This code was made to allow the user to create an array for an indefinite number of elements.
+This program displayed the main menu with 7 options:
+
+1: Append an element at the end: this option allowed the user to add an elememt at the end of the array.
+
+2: Print the array: the program printed all the information of the array.
+
+3: Remove an element: the user gave the index of the element to remove and that particular number would be deleted from the array and move every other element one space to the left.
+
+4: Insert an element: the user gave a new index to assign a new entry, and the program would add the information accordingly and move every other element one space to the right.
+
+5: Exit: the user selected this option to end the program. The program would run until this option was selected.
+
+If option 1 or 4 were selected, the program would check available space in the array to add a new element. In the event of not enough space being available, the array would be doubled in size. Moreover, in option 3, upon deleting an element, the program would shrink the array by half the size if less than 30% of the total capacity were occupied. 
+
