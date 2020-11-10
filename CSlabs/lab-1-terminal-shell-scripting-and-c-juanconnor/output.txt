@@ -1,0 +1,43 @@
+# Simply copy and paste the output from your terminal here!
+ls
+main.c  myScript.sh  output.txt  part1-shell.md  part2-IntroC.md  README.md  test
+-bash-4.2$ mkdir test2
+-bash-4.2$ cd test2
+-bash-4.2$ man cd
+-bash-4.2$ rmdir test
+rmdir: failed to remove ‘test’: No such file or directory
+-bash-4.2$ cd ..
+-bash-4.2$ rmdir test
+-bash-4.2$ sort -d  output.txt
+main.c
+myScript.sh
+output.txt
+part1-shell.md
+part2-IntroC.md
+README.md
+-bash-4.2$ cat output.txt
+main.c
+myScript.sh
+output.txt
+part1-shell.md
+part2-IntroC.md
+README.md
+-bash-4.2$ nl output.txt
+     1  main.c
+     2  myScript.sh
+     3  output.txt
+     4  part1-shell.md
+     5  part2-IntroC.md
+     6  README.md
+cut -b 1,2,5 output.txt
+ma.
+myr
+ouu
+pa1
+pa2
+REM
+-bash-4.2$ grep -i "r" output.txt
+myScript.sh
+part1-shell.md
+part2-IntroC.md
+README.md
