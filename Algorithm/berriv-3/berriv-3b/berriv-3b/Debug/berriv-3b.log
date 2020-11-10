@@ -1,0 +1,31 @@
+﻿  Dictionary.cpp
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(30): warning C4812: obsolete declaration style: please use 'Heap<T>::Heap' instead
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(30): warning C4812: obsolete declaration style: please use 'Heap<std::string>::Heap' instead
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(31): note: while compiling class template member function 'Heap<std::string>::Heap(void)'
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(93): note: see reference to function template instantiation 'Heap<std::string>::Heap(void)' being compiled
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(93): note: see reference to class template instantiation 'Heap<std::string>' being compiled
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(95): warning C4018: '<': signed/unsigned mismatch
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(93): note: while compiling class template member function 'void Heap<std::string>::initializeMaxHeap(std::vector<std::string,std::allocator<_Ty>>)'
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(94): note: see reference to function template instantiation 'void Heap<std::string>::initializeMaxHeap(std::vector<std::string,std::allocator<_Ty>>)' being compiled
+          with
+          [
+              _Ty=std::string
+          ]
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(86): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(85): note: while compiling class template member function 'void Heap<std::string>::buildMaxHeap(void)'
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(97): note: see reference to function template instantiation 'void Heap<std::string>::buildMaxHeap(void)' being compiled
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(31): note: while compiling class template member function 'Heap<std::string>::Heap(void)'
+  c:\users\jpber\algorithms\berriv-3b\berriv-3b\dictionary.cpp(93): note: see reference to function template instantiation 'Heap<std::string>::Heap(void)' being compiled
+  berriv-3b.cpp
+c:\users\jpber\algorithms\berriv-3b\berriv-3b\heap.h(30): warning C4812: obsolete declaration style: please use 'Heap<T>::Heap' instead
+  Generating Code...
+  LINK : C:\Users\jpber\Algorithms\berriv-3b\Debug\berriv-3b.exe not found or not built by the last incremental link; performing full link
+  berriv-3b.vcxproj -> C:\Users\jpber\Algorithms\berriv-3b\Debug\berriv-3b.exe

@@ -1,0 +1,5 @@
+﻿  berriv-5a.cpp
+c:\users\jpber\algorithms\berriv-5a\berriv-5a\berriv-5a.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\jpber\algorithms\berriv-5a\berriv-5a\berriv-5a.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\jpber\algorithms\berriv-5a\berriv-5a\berriv-5a.cpp(11): warning C4101: 'x': unreferenced local variable
+  berriv-5a.vcxproj -> C:\Users\jpber\Algorithms\berriv-5a\Debug\berriv-5a.exe

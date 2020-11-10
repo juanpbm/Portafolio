@@ -1,0 +1,5 @@
+﻿  berriv-4a.cpp
+  board.cpp
+c:\users\jpber\algorithms\berriv-4a\berriv-4a\board.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  berriv-4a.vcxproj -> C:\Users\jpber\Algorithms\berriv-4a\Debug\berriv-4a.exe
