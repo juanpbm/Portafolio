@@ -1,9 +1,7 @@
-# Programming Portfolio
+# **Programming Portfolio**
 
-## Codes From Class Projects
+## Academic Projects and Class Assignments 
+Here you will find my more relevant coding experience that is not protected by intellectual property. Everything has been written in C, C++, or Python.
 
-These codes were made using Dev C++, Arduino, or Linux.
 
-mostly i worked alnoe and in some cases, I worked in a group.
-
-Refer to the readme.md in each folder for code description. 
+Please refer to the README.md in each folder for a detailed description of its contents.. 
