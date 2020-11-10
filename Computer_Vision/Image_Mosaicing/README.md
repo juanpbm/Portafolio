@@ -7,4 +7,4 @@ The corners between the two images are then correlated with a normalized cross-c
 We then use RANSAC to estimate a homography between the two perspectives by randomly sampling four pairs to produce the best fit. With the homography,
 we then warp the second image onto the first and merge the overlapping pixels to create the mosaic.
 
-For more information on this project, please refer to the report PDF.
+For more information on this project, please refer to the [report PDF](Report.pdf).
