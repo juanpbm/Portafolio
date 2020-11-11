@@ -10,7 +10,7 @@ Each project is divided into 2 parts, a and b. Both parts tackle the same proble
 
 Berriv-1: MasterMind Game 
 
-Berriv-2: Part a, Shuffle Deck of Cards. Part b, Card Game 
+Berriv-2: Part a, Shuffle Deck of Cards. Part b, Cards Game 
 
 Berriv-3: Word Search Puzzle
 
