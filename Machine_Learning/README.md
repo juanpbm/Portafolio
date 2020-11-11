@@ -1,4 +1,4 @@
-# EECE5644 Machine Learing and Pattern Recognition 
+# EECE5644 Machine Learning and Pattern Recognition 
 
 ## Projects:
 
@@ -35,4 +35,7 @@
 **Q3:**
 
 [PDF Report](Assignment4/Assignment4_Juan_Bernal.pdf)
-Please refere to the PDF Reports for a ditailed explanation of the methodes and results of each project.
+
+**----------------------------------------------------------------------------------------------------**
+
+Please refer to the PDF Reports for a detailed explanation of the methods and results of each project.
